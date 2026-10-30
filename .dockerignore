@@ -1,0 +1,16 @@
+.git
+node_modules
+dist
+.env
+.env.*
+!.env.example
+wallets
+out
+broadcast
+.pnpm-store
+*.key
+*.pem
+artifacts
+coverage
+playwright-report
+test-results

@@ -1,0 +1,12 @@
+﻿{
+  "observedAt": "2026-10-30T13:32:49.103Z",
+  "rpcHost": "rpc.mainnet.chain.robinhood.com",
+  "chainId": 4663,
+  "token": {
+    "address": "0x5173b8ea6923c2d40267890d45c46a3480954773",
+    "runtimeBytes": 3248,
+    "runtimeCodeHash": "0xbd9466af58a95576282f8a67fe81c5ed8b78c22c362be48c511608a30652f59f",
+    "decimals": 18,
+    "symbol": "WIF"
+  }
+}
